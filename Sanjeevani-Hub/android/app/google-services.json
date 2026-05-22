@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "634382192687",
+    "project_id": "sanjeevani-c2a86",
+    "storage_bucket": "sanjeevani-c2a86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634382192687:android:abfecbb79214ccbd77b6da",
+        "android_client_info": {
+          "package_name": "com.example.aegis_eye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051387626429-306jtdv2ctghn5h2tfurotthrcid2l2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCva3gdyyGrF0rmMrip-28AduBOSQsvlX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
