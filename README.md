@@ -369,16 +369,20 @@ Both apps follow a **clean layered architecture**:
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Follow coding standards:
-   - Run `flutter format .` before committing
-   - Run `flutter analyze` — resolve all warnings
-   - All API calls must go through `services/` — **never write raw HTTP calls in screens**
-   - Follow the existing theme system in `theme/app_theme.dart`
-4. Commit: `git commit -m "feat: describe your change"`
-5. Push: `git push origin feature/your-feature-name`
-6. Open a Pull Request with a clear description
+We love contributions! Whether you're a student, a friend, or an open-source contributor, we'd love your help.
+
+👉 **[Please read our full Contributing Guide (CONTRIBUTING.md) here!](./CONTRIBUTING.md)** 👈
+
+It contains everything you need to know about:
+- What this project is and how it helps the world 🌍
+- What kind of solutions we accept (Bug fixes, UI improvements, etc.) 💡
+- A step-by-step beginner's guide to making your first Pull Request! 🛠️
+
+*When contributing, please follow these project-specific standards:*
+- Run `flutter format .` before committing
+- Run `flutter analyze` — resolve all warnings
+- All API calls must go through `services/` — **never write raw HTTP calls in screens**
+- Follow the existing theme system in `theme/app_theme.dart`
 
 ---
 
